@@ -48,4 +48,5 @@ body{
 
 #container{
 	margin-left: 450px;
+	position: fixed;
 }
