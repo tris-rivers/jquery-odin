@@ -48,5 +48,6 @@ body{
 
 #container{
 	margin: auto;
+	margin-top: 20px;
 	position: fixed;
 }
