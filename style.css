@@ -31,6 +31,7 @@ body{
   box-shadow: 0 6px #999;
   cursor: pointer;
   padding: 5px 5px 5px 5px;
+  margin-top: 50px;
 }
 
 .button:hover {background-color:   #d35400;}
