@@ -47,7 +47,7 @@ body{
 
 
 #container{
-	margin: auto;
+	margin-left: 450;
 	margin-top: 20px;
 	position: fixed;
 }
