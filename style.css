@@ -47,6 +47,6 @@ body{
 
 
 #container{
-	margin-left: 450px;
+	margin: auto;
 	position: fixed;
 }
